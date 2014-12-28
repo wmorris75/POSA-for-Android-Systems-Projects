@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantReadWriteLock.ReadLock"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantReadWriteLock.WriteLock"/>
+<fullyQualifiedTypeName name="java.lang.Thread.State"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadRequest.Stub"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadCallback.Stub"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadBase"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadUtils"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.os.Messenger"/>
+<fullyQualifiedTypeName name="android.os.Message"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;W7-A6-iRememberSecurity&apos;" deleteContents="true" description="Delete resource &apos;W7-A6-iRememberSecurity&apos;" element1="/W7-A6-iRememberSecurity" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1404631625402"/>
+</session>
